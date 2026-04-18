@@ -23,4 +23,5 @@ This project is a clone of the MeanBuy website built using HTML, CSS, and JavaSc
 This was a collaborative project where I worked on specific modules as mentioned above.
 
 ## 🌐 Live Demo
-(Add your GitHub Pages link here)
+https://github.com/poorviparashar122
+
